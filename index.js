@@ -1,1 +1,1 @@
-console.log("Welcome to Blitzy");
+console.log("Welcome to Blitzy\nWelcome to Blitzy");
